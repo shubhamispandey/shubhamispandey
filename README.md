@@ -34,8 +34,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamispandey&" alt="shubhamispandey" /></p>
 
+<h3 align="left">View my Projects:</h3>
 <div>
-        <img src="https://github.com/shubhamispandey/shubhamispandey/blob/main/newscms.png" alt="" width="300px">
-        <img src="https://github.com/shubhamispandey/shubhamispandey/blob/main/newscms.png" alt="" width="300px">
-        <img src="https://github.com/shubhamispandey/shubhamispandey/blob/main/newscms.png" alt="" width="300px">
+        <img src="https://github.com/shubhamispandey/shubhamispandey/blob/main/img/1.png" alt="" width="280px">
+        <img src="https://github.com/shubhamispandey/shubhamispandey/blob/main/img/2.png" alt="" width="280px">
+        <img src="https://github.com/shubhamispandey/shubhamispandey/blob/main/img/3.png" alt="" width="280px">
     </div>
