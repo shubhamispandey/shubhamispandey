@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT**
 
-- 📫 How to reach me **shubham@iiitkottayam.ac.in**  
+- 📫 How to reach me **shubham2019@iiitkottayam.ac.in**  
 
 
 <h3 align="left">Connect with me:</h3>
