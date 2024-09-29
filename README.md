@@ -3,19 +3,19 @@
 <h1 align="center">Hi 👋, I'm <span style="color: orange">Shubham Pandey</span></h1>
 <h3 align="center">A passionate frontend developer who ❤️ coffee and building web Applications</h3>
 
-- 🔭 I’m currently working on **CMS based Web Application**
+- 🔭 I’m currently working on **Video Cnferencing Application**
 
 - 🌱 I’m currently learning **Node.JS, MongoDB, Express**
 
 - 🤝 I’m looking for help with **Web Sockets based applications**
 
-- 👨‍💻 View my Portfolio website [https://shubhampandeyportfolio.netlify.app/](https://shubhampandeyportfolio.netlify.app/)
+- 👨‍💻 View my Portfolio website [PORTFOLIO 🚀](https://shubhampandey.live/)
 
 - 📝 I regularly write code on [Visual Studio](Visual Studio)
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, React, Nextjs, Microfrontends, TypeScript, Node, MySQL**
 
-- 📫 How to reach me **shubham2019@iiitkottayam.ac.in**  
+- 📫 How to reach me **shubhampandeyhaihum@gmail.com**  
 
 
 <h3 align="left">Connect with me:</h3>
